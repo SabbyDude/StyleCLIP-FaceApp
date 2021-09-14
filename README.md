@@ -1,6 +1,6 @@
 # StyleCLIP-FaceApp
 
-Open the file ['StyleCLIP-Global'](https://github.com/SabbyDude/StyleCLIP-FaceApp/blob/main/StyleCLIP_global.ipynb) in an supported interactive python notebook environment, preferably [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibieXE7_3yAhXg7XMBHZc0A0MQFnoECAIQAQ&url=https%3A%2F%2Fcolab.research.google.com%2Fnotebooks%2F&usg=AOvVaw0eDNVclINNdlOuD-YTYiiB)
+Open the file ['StyleCLIP-Global'](https://github.com/SabbyDude/StyleCLIP-FaceApp/blob/main/StyleCLIP_global.ipynb) in a supported interactive python notebook environment, preferably [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibieXE7_3yAhXg7XMBHZc0A0MQFnoECAIQAQ&url=https%3A%2F%2Fcolab.research.google.com%2Fnotebooks%2F&usg=AOvVaw0eDNVclINNdlOuD-YTYiiB), you can also use [Jupyter Notebook](https://jupyter.org/try) or [Visual Studio Code](https://code.visualstudio.com/Download) with [Jupyter Extension](https://jupyter-notebook.readthedocs.io/en/latest/)
 
 Make a copy of the file in Google Colab before you start working just in case you mess up the file, you'll be able to start fresh by making a copy of original file once again.
 
